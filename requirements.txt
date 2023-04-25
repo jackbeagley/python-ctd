@@ -5,3 +5,4 @@ numpy
 pandas>=0.24.0
 pandas-flavor>=0.1.2
 scipy
+wxpython>=4.0.0

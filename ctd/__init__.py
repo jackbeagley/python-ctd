@@ -25,6 +25,8 @@ from .read import (
     rosette_summary,
 )
 
+from gui.ctd_gui import ctd_gui
+
 try:
     from ._version import __version__
 except ImportError:
